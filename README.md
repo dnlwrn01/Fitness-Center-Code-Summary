@@ -1,4 +1,5 @@
-# Fitness Center Website
+# Fitness Center
+*Freelacne Project*
 
 *Note: Due to this project being developed in collaboration with my team, fellow students, or a client -- this application cannot be published online. This is detailed summary of the project goals, work, outcome, and how I would approach this project next time.* 
 
